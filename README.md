@@ -1,6 +1,6 @@
 # Calcumeal-SmartPlate-AI
 
-## 🧠 Project Title
+## Project Title
 **Calcumeal SmartPlate AI: An Intelligent System for Ingredient Recognition and Personalized Healthy Meal Planning**
 
 ---

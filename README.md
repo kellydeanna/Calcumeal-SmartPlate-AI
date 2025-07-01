@@ -18,7 +18,7 @@ Built for people who want to eat healthier, save time, and learn about nutrition
 
 ## 🚀 Getting Started
 
-### Live Demo
+### Live Portotypes
 Try it on Hugging Face:  
 👉 [https://huggingface.co/spaces/Kellydeanna/healthymeal](https://huggingface.co/spaces/Kellydeanna/healthymeal)
 

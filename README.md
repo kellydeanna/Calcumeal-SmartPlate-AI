@@ -22,6 +22,9 @@ Built for people who want to eat healthier, save time, and learn about nutrition
 Try it on Hugging Face:  
 👉 [https://huggingface.co/spaces/Kellydeanna/healthymeal](https://huggingface.co/spaces/Kellydeanna/healthymeal)
 
+### Presentation 
+👉 [https://www.canva.com/design/DAGo-gkI_jk/fBsp8hyBHZRpN0_HzjcLFA/edit]
+
 ### Prerequisites
 - Python 3.8+
 - TensorFlow / Keras

@@ -31,7 +31,7 @@ Try it on Hugging Face:
 ### Installation
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/yourusername/calcumeal-smartplate-ai.git
+git clone https://github.com/kellydeanna/calcumeal-smartplate-ai.git
 cd calcumeal-smartplate-ai
 pip install -r requirements.txt
 ```

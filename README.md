@@ -44,20 +44,18 @@ Connect to your dataset on Google Drive or Hugging Face and set up your API key 
 
 ```
 calcumeal-smartplate-ai/
-├── model/
-│   └── ingredient_classifier.h5
-├── data/
-│   └── ingredients_dataset/
-├── app/
-│   ├── app.py
-│   ├── gpt_mealplanner.py
-│   └── image_upload_handler.py
-├── notebooks/
-│   └── cnn_training.ipynb
+├── app.py                    # Main app interface (e.g., Gradio or Streamlit)
+├── model_training.py         # Script for training the CNN model
+├── model_predict.py          # Script for loading the trained model and making predictions
+├── gpt_integration.py        # GPT-based weekly meal planner logic
+├── Ingredient_detector.h5    # Trained CNN model file
+├── class_names.txt           # List of 66 ingredient class labels
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
 ├── media/
-│   ├── screenshots/
-│   └── demo_video.mov
-└── README.md
+│   ├── screenshots/          # Screenshots of ingredient detection & meal planner output
+│   └── demo_video.mov        # Full video demo of the weekly planner
+
 ```
 
 ---
@@ -112,7 +110,9 @@ Prompts designed to simulate a health consultant's guidance.
 
 ## 📚 References
 
-- [OpenAI API](https://platform.openai.com)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Hugging Face Spaces](https://huggingface.co/spaces)
-- Custom dataset by project team
+- [OpenAI API Documentation](https://platform.openai.com/docs/) – for GPT-based meal planning
+- [TensorFlow](https://www.tensorflow.org/) – for training the CNN ingredient classifier
+- [Pillow (PIL)](https://pillow.readthedocs.io/en/stable/) – for image preprocessing
+- [Scikit-learn](https://scikit-learn.org/) – used for encoding and evaluation
+- [Hugging Face Spaces](https://huggingface.co/spaces) – for deployment
+- Custom dataset manually created by the Calcumeal project team

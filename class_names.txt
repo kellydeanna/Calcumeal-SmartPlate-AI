@@ -1,0 +1,66 @@
+Apple
+Arugula
+Avocado
+Banana
+Beef
+Beetroot
+Bell Pepper
+Blackberry
+Blueberry
+Bok Choy
+Broccoli
+Cabbage
+Carrot
+Cauliflower
+Celery
+Chicken
+Coconut
+Corn
+Cranberry
+Cucumber
+Dates
+Dragon Fruit
+Edamame
+Eggplant
+Fig
+Garlic
+Ginger
+Grapefruit
+Grapes
+Green Beans
+Guava
+Kale
+Kiwi
+Leek
+Lemon
+Lettuce
+Lime
+Lychee
+Mango
+Mustard Greens
+Okra
+Onion
+Orange
+Papaya
+Passion Fruit 
+Peach
+Pear
+Pineapple
+Plum
+Pomegranate
+Potato
+Pumpkin
+Radish
+Raspberry
+Salmon
+Shrimp
+Spinach
+Startfruit
+Strawberry
+Sweet potato
+Swiss Chard
+Tofu
+Tomato
+Turnip
+Watermelon
+Zucchini

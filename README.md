@@ -91,13 +91,13 @@ Prompts designed to simulate a health consultant's guidance.
 
 ## 👥 Contributors
 
-| Name                   | Role                                                                                      |
-|------------------------|-------------------------------------------------------------------------------------------|
-| Kelly Deanna Djaja     | proposal, dataset collection, programming, application design, poster design,presentation |
-| Luana Vallejos Morinigo| presentation, dataset collection                                                          |
-| Giovanie Tandiono      | dataset collection                                                                        |
-| Lac Thi Giang          | presentation, dataset collection                                                          | 
-| Mira黃宥宓              | presentation, dataset collection                                                          |
+| Name                   | Role                                                                                       |
+|------------------------|--------------------------------------------------------------------------------------------|
+| Kelly Deanna Djaja     | proposal, dataset collection, programming, application design, poster design, presentation |
+| Luana Vallejos Morinigo| presentation, dataset collection                                                           |
+| Giovanie Tandiono      | dataset collection                                                                         |
+| Lac Thi Giang          | presentation, dataset collection                                                           | 
+| Mira黃宥宓              | presentation, dataset collection                                                           |
 
 ---
 

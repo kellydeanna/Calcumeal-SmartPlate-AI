@@ -54,7 +54,7 @@ calcumeal-smartplate-ai/
 ├── media/
 │   ├── screenshots/          # Screenshots of ingredient detection & meal planner output
 │   └── demo_video.mov        # Full video demo of the weekly planner
-├── README.md                 # Project documentation
+└── README.md
 ```
 
 ---

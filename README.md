@@ -91,16 +91,19 @@ Prompts designed to simulate a health consultant's guidance.
 
 ## 👥 Contributors
 
-| Name            | Role                                 |
-|-----------------|--------------------------------------|
-| Kelly Deanna    | Model Development, App Design        |
-| Team Members    | Dataset Collection, Prompt Design, Testing |
+| Name                   | Role                                                                                      |
+|------------------------|-------------------------------------------------------------------------------------------|
+| Kelly Deanna Djaja     | proposal, dataset collection, programming, application design, poster design,presentation |
+| Luana Vallejos Morinigo| presentation, dataset collection                                                          |
+| Giovanie Tandiono      | dataset collection                                                                        |
+| Lac Thi Giang          | presentation, dataset collection                                                          | 
+| Mira黃宥宓              | presentation, dataset collection                                                          |
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Professor [Your Professor’s Name]
+- Professor Pien Chung-pei
 - OpenAI for GPT API
 - Hugging Face for app hosting
 - Google Colab for training environment

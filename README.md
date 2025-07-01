@@ -37,10 +37,8 @@ Clone the repo and install dependencies:
 git clone https://github.com/kellydeanna/calcumeal-smartplate-ai.git
 cd calcumeal-smartplate-ai
 pip install -r requirements.txt
+dataset google drive https://drive.google.com/drive/folders/1_2zh88QgUX0tOBQNNgFmNGAOZ7Ul1eS3?usp=drive_link
 ```
-
-Connect to your dataset on Google Drive or Hugging Face and set up your API key for OpenAI.
-
 ---
 
 ## 📁 File Structure

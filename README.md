@@ -51,11 +51,10 @@ calcumeal-smartplate-ai/
 ├── Ingredient_detector.h5    # Trained CNN model file
 ├── class_names.txt           # List of 66 ingredient class labels
 ├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
 ├── media/
 │   ├── screenshots/          # Screenshots of ingredient detection & meal planner output
 │   └── demo_video.mov        # Full video demo of the weekly planner
-
+├── README.md                 # Project documentation
 ```
 
 ---

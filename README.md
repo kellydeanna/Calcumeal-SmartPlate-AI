@@ -86,8 +86,8 @@ Prompts designed to simulate a health consultant's guidance.
 - User feedback confirms potential for personal health use.
   
 The Calcumeal system successfully delivered both functionalities:
-•	Ingredient Detection: Accurately identified ingredients from real-world images. Each recognized ingredient triggered two recipe suggestions with calorie details.
-•	Weekly Planner: Generated structured meal plans with 21 distinct recipes (3 per day × 7 days), including preparation instructions and nutritional estimates.
+- Ingredient Detection: Accurately identified ingredients from real-world images. Each recognized ingredient triggered two recipe suggestions with calorie details.
+- Weekly Planner: Generated structured meal plans with 21 distinct recipes (3 per day × 7 days), including preparation instructions and nutritional estimates.
 The application is fully functional on Hugging Face and demonstrates real-world usability. Feedback from testers indicated strong potential for further use in diet tracking, personalized nutrition, and health coaching.
 
 ---
